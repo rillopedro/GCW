@@ -1,1 +1,2 @@
-# GCW https://github.com/rillopedro/GCW
+# GCW
+https://rillopedro.github.io/GCW
